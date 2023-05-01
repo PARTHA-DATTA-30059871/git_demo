@@ -2,6 +2,7 @@ import platform
 import os
 
 print("Hi! This is Partha")
+print("Hello World")
 print("Hi! This is Cody")
 
 print("\nName of the OS:",os.name)
