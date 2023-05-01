@@ -1,7 +1,7 @@
 import platform
 import os
 
-print("Hi! This is Partha")
+print("Hi! This is Partha Pratim")
 
 print("\nName of the OS:",os.name)
 print("\nName of the OS:",os.getcwd())
