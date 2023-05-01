@@ -1,8 +1,7 @@
 import platform
 import os
 
-print("Hi! This is Cody")
-print("Creating conflict")
+print("Hi! This is Partha")
 
 print("\nName of the OS:",os.name)
 print("\nName of the OS:",os.getcwd())
