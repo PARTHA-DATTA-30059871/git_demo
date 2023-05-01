@@ -15,4 +15,8 @@ git remote add origin URL
 git checkout -b feature/partha
 ```
 
-3. 
+3. Update any file and do the necessary steps to push back as feature branch
+```
+git add .
+git commit -am "Updating the script"
+git push --set-upstream origin feature/partha
