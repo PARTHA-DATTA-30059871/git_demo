@@ -20,3 +20,11 @@ git checkout -b feature/partha
 git add .
 git commit -am "Updating the script"
 git push --set-upstream origin feature/partha
+<!-- OR -->
+git push
+```
+
+4. Changes to be made on the same line. Different lines do not result conflict:
+```
+
+```
