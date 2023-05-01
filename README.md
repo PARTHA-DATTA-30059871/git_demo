@@ -10,4 +10,9 @@ git clone URL
 git remote add origin URL
 ```
 
-2. 
+2. Checkout to new branch to work on:
+```
+git checkout -b feature/partha
+```
+
+3. 
