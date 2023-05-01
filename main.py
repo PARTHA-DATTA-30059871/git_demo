@@ -2,6 +2,7 @@ import platform
 import os
 
 print("Hi! This is Partha")
+print("Creating conflict")
 
 print("\nName of the OS:",os.name)
 print("\nName of the OS:",os.getcwd())
