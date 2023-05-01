@@ -3,6 +3,7 @@ import os
 
 print("Hi! This is Partha")
 print("Hi! This is Cody")
+print("My New Code")
 
 print("\nName of the OS:",os.name)
 print("\nName of the OS:",os.getcwd())
