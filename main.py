@@ -2,8 +2,6 @@ import platform
 import os
 
 print("Hi! This is Partha")
-print("Hello World PPD")
-print("New Code")
 
 print("\nName of the OS:",os.name)
 print("\nName of the OS:",os.getcwd())
